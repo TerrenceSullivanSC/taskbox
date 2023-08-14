@@ -200,7 +200,7 @@ textarea {
 
 .input-symbol input:focus + [class^="icon-"],
 .input-symbol input:focus + [class*=" icon-"] {
-  color: #2cc5d2;
+  color: #73000a;
 }
 
 .input-symbol [class^="icon-"],
